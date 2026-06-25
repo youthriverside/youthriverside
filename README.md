@@ -9,11 +9,13 @@
 
 </div>
 
+<br></br>
+
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=youthriverside&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 放眼本人这些仓库，  
 个人觉得比较牛逼的项目是`OnlineChat` ，  
-当时还没有`Transformer`，古法手搓，“难得可贵”。  
+当时`GenAI`尚未兴起，古法手搓，“难得可贵”。  
 今年目标：给博客加一个搜索框  
 完善一下这篇`README.md`，以达成金玉其外败絮其中的功用。
 
