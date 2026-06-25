@@ -17,6 +17,14 @@
 今年目标：给博客加一个搜索框  
 完善一下这篇`README.md`，以达成金玉其外败絮其中的功用。
 
+<p align="center"> 
+  <img src="https://ghstats.dev/api/card?username=youthriverside&theme=radical&hide_border=true&show_icons=true" width="600"/>
+</p>
+<p align="center"> 
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=youthriverside&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
+</p>
+
+
 
 
 
