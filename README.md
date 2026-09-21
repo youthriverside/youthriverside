@@ -29,6 +29,7 @@
   <img src="https://ghstats.dev/api/card?username=youthriverside&theme=radical&hide_border=true&show_icons=true" width="600"/>
 </p>
 
+这个图大抵是无用的，毕竟很少commit。图一乐，说不定哪天就活跃起来了。
 
 
 
