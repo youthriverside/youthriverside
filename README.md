@@ -34,7 +34,7 @@ I started out playing around with websites and small PHP projects. These days, I
 > 放眼本人这些仓库，  
 > 个人觉得比较牛逼的项目是`OnlineChat` ，  
 > `GenAI`方未兴起，古法手搓，难得可贵(雾)。  
-> 上面吹的牛逼有的还没发到仓库，整理下再发罢。  
+> 上面吹的牛逼有的还没建仓库，整理下再发罢。  
 > 今年目标：给博客加一个搜索框. （已完成）  
 > 整理最近写的东西传上来  
 > 完善一下这篇`README.md`，以达成~~金玉其外败絮其中~~的功用。
