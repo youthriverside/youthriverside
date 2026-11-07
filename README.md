@@ -15,7 +15,7 @@ I'm studying **Information and Communication Engineering** at **Dalian Universit
 I started out playing around with websites and small PHP projects. These days, I'm more into embedded systems, signal processing, and figuring out how to make hardware and software work together.
 
 
-- 🔭 I’m currently working on **mmWave radar imaging**, FPGA-based systems, and computer vision projects using YOLO.
+- 🔭 I’m currently working on **mmWave radar imaging**, FPGA-based systems, and computer vision projects.
 - 🌱 I’m learning more about radar signal processing, MIMO/SAR imaging, and RF design. Still a lot to figure out.
 - 👯 I’d love to collaborate on open-source hardware, embedded systems, or just about anything interesting.
 - 🤔 I’m looking for help with radar imaging algorithms, antenna arrays, and RF PCB design.
