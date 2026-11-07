@@ -2,12 +2,33 @@
 
 # Matt Liu
 
-**天気がいいから、散歩しましょう。**
+**Just tinkering with things.**
 
 [![Website](https://img.shields.io/badge/liuboyuan.fun-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://liuboyuan.fun)
 [![Email](https://img.shields.io/badge/BG2GNK@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bg2gnk@gmail.com)
 
 </div>
+
+### 👋 Hi there! 
+I'm studying **Information and Communication Engineering** at **Dalian University of Technology**.
+
+I started out playing around with websites and small PHP projects. These days, I'm more into embedded systems, signal processing, and figuring out how to make hardware and software work together.
+
+- 🔭 I’m currently working on **mmWave radar imaging**, FPGA-based systems, and computer vision projects using YOLO.
+- 🌱 I’m learning more about radar signal processing, MIMO/SAR imaging, and RF design. Still a lot to figure out.
+- 👯 I’d love to collaborate on open-source hardware, embedded systems, or just about anything interesting.
+- 🤔 I’m looking for help with radar imaging algorithms, antenna arrays, and RF PCB design.
+- 💬 Ask me about STM32, ESP32, C/C++, Python, PHP, or YOLO. Happy to share what I know.
+- 📫 Reach me at [Email](mailto:bg2gnk@gmail.com), or drop by my [blog](https://liuboyuan.fun).
+- ⚡ Fun fact: I made a PHP chatroom as a teenager because I wanted a different way to chat with friends. Somehow, that eventually led me to working with microcontrollers and radar systems.
+
+### A few things I've built
+
+- **[OnlineChat](https://github.com/youthriverside/OnlineChat)** — A small PHP chatroom I built when I was younger.
+- **[ESP32 Smart Car Control System](https://github.com/youthriverside/ESP32-Smart-Car-Control-System)** — A C++ project for controlling an ESP32-based car over serial communication.
+- **[Wordpress-Links](https://github.com/youthriverside/Wordpress-Links)** — A simple PHP script for listing WordPress post URLs.
+
+I also keep a [personal blog](https://liuboyuan.fun), where I write about technical stuff and whatever else happens to be on my mind.  
 
 <br>
 
