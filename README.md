@@ -19,7 +19,6 @@ I started out playing around with websites and small PHP projects. These days, I
 - 👯 I’d love to collaborate on open-source hardware, embedded systems, or just about anything interesting.
 - 🤔 I’m looking for help with radar imaging algorithms, antenna arrays, and RF PCB design.
 - 💬 Ask me about STM32, ESP32, C/C++, Python, PHP, or YOLO. Happy to share what I know.
-- 📫 Reach me at [Email](mailto:bg2gnk@gmail.com), or drop by my [blog](https://liuboyuan.fun).
 - ⚡ Fun fact: I made a PHP chatroom as a teenager because I wanted a different way to chat with friends. Somehow, that eventually led me to working with microcontrollers and radar systems.
 
 ### A few things I've built
@@ -28,18 +27,19 @@ I started out playing around with websites and small PHP projects. These days, I
 - **[ESP32 Smart Car Control System](https://github.com/youthriverside/ESP32-Smart-Car-Control-System)** — A C++ project for controlling an ESP32-based car over serial communication.
 - **[Wordpress-Links](https://github.com/youthriverside/Wordpress-Links)** — A simple PHP script for listing WordPress post URLs.
 
-I also keep a [personal blog](https://liuboyuan.fun), where I write about technical stuff and whatever else happens to be on my mind.  
-
+### Random Thoughts
 <br>
 
-<img align="right"  src="https://github-stats-extended.vercel.app/api?username=youthriverside&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats" />
+
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=youthriverside&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true" width="360" alt="GitHub Stats" />
+
 
 
 > 放眼本人这些仓库，  
 > 个人觉得比较牛逼的项目是`OnlineChat` ，  
 > `GenAI`方未兴起，古法手搓，“难得可贵”。  
 > 今年目标：给博客加一个搜索框. （已完成）  
->  完善一下这篇`README.md`，以达成~金玉其外败絮其中~的功用。
+>  完善一下这篇`README.md`，以达成~~金玉其外败絮其中~~的功用。
 
 
 <br></br>
