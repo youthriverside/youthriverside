@@ -14,7 +14,6 @@ I'm studying **Information and Communication Engineering** at **Dalian Universit
 
 I started out playing around with websites and small PHP projects. These days, I'm more into embedded systems, signal processing, and figuring out how to make hardware and software work together.
 
-<img align="right" width=320 alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=true" />
 
 - 🔭 I’m currently working on **mmWave radar imaging**, FPGA-based systems, and computer vision projects using YOLO.
 - 🌱 I’m learning more about radar signal processing, MIMO/SAR imaging, and RF design. Still a lot to figure out.
@@ -28,26 +27,22 @@ I started out playing around with websites and small PHP projects. These days, I
 - **[OnlineChat](https://github.com/youthriverside/OnlineChat)** — A small PHP chatroom I built when I was younger.
 - **[ESP32 Smart Car Control System](https://github.com/youthriverside/ESP32-Smart-Car-Control-System)** — A C++ project for controlling an ESP32-based car over serial communication.
 - **[Wordpress-Links](https://github.com/youthriverside/Wordpress-Links)** — A simple PHP script for listing WordPress post URLs.
+<img align="right" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=false" />
 
 ### Random Thoughts
-<br>
-
-
-
-
-
 
 > 放眼本人这些仓库，  
 > 个人觉得比较牛逼的项目是`OnlineChat` ，  
-> `GenAI`方未兴起，古法手搓，“难得可贵”。  
+> `GenAI`方未兴起，古法手搓，难得可贵(雾)。  
 > 今年目标：给博客加一个搜索框. （已完成）  
->  完善一下这篇`README.md`，以达成~~金玉其外败絮其中~~的功用。
+> 整理最近写的东西传上来  
+> 完善一下这篇`README.md`，以达成~~金玉其外败絮其中~~的功用。
 
 
 <br></br>
 
 <p align="center"> 
-  <img src="https://ghstats.dev/api/card?username=youthriverside&theme=radical&hide_border=true&show_icons=true" title="这个图大抵是无用的，毕竟很少commit。图一乐，说不定哪天就活跃起来了。" width="600"/>
+  <img src="https://ghstats.dev/api/card?username=youthriverside&theme=radical&hide_border=true&show_icons=false" title="这个图大抵是无用的，毕竟很少commit。图一乐，说不定哪天就活跃起来了。" width="600"/>
 </p>
 
 
