@@ -1,4 +1,4 @@
-<div align="center">
+<img width="894" height="777" alt="image" src="https://github.com/user-attachments/assets/f400ac12-4c35-44b3-a82d-dfed6c75ebf7" /><img width="894" height="777" alt="image" src="https://github.com/user-attachments/assets/5c061464-75cf-4a37-848d-04ab62d43c42" /><div align="center">
 
 # Matt Liu
 
@@ -14,7 +14,7 @@ I'm studying **Information and Communication Engineering** at **Dalian Universit
 
 I started out playing around with websites and small PHP projects. These days, I'm more into embedded systems, signal processing, and figuring out how to make hardware and software work together.
 
-<img align="right"  alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=true" />
+<img align="right" width=320 alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=true" />
 
 - 🔭 I’m currently working on **mmWave radar imaging**, FPGA-based systems, and computer vision projects using YOLO.
 - 🌱 I’m learning more about radar signal processing, MIMO/SAR imaging, and RF design. Still a lot to figure out.
