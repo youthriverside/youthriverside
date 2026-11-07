@@ -1,5 +1,3 @@
-<img width="894" height="777" alt="image" src="https://github.com/user-attachments/assets/f400ac12-4c35-44b3-a82d-dfed6c75ebf7" /><img width="894" height="777" alt="image" src="https://github.com/user-attachments/assets/5c061464-75cf-4a37-848d-04ab62d43c42" /><div align="center">
-
 # Matt Liu
 
 **Just tinkering with things.**
