@@ -27,9 +27,9 @@ I started out playing around with websites and small PHP projects. These days, I
 - **[OnlineChat](https://github.com/youthriverside/OnlineChat)** — A small PHP chatroom I built when I was younger.
 - **[ESP32 Smart Car Control System](https://github.com/youthriverside/ESP32-Smart-Car-Control-System)** — A C++ project for controlling an ESP32-based car over serial communication.
 - **[Wordpress-Links](https://github.com/youthriverside/Wordpress-Links)** — A simple PHP script for listing WordPress post URLs.
-<img align="right" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=false" />
 
 ### Random Thoughts
+<img align="right" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=false" />
 
 > 放眼本人这些仓库，  
 > 个人觉得比较牛逼的项目是`OnlineChat` ，  
