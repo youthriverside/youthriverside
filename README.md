@@ -29,7 +29,7 @@ I started out playing around with websites and small PHP projects. These days, I
 - **[Wordpress-Links](https://github.com/youthriverside/Wordpress-Links)** — A simple PHP script for listing WordPress post URLs.
 
 ### Random Thoughts
-<img align="right" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=false" />
+<img align="right" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=youthriverside&show_icons=true&theme=tokyonight&hide_rank=true" />
 
 > 放眼本人这些仓库，  
 > 个人觉得比较牛逼的项目是`OnlineChat` ，  
